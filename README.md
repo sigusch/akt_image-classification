@@ -6,7 +6,7 @@
 
 ```Powershell
 python -m venv <venv_name>
-.\akt_dl_venv\Scripts\activate
+.\<venv_name>\Scripts\activate
 ```
 
 ### Installation
