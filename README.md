@@ -13,6 +13,7 @@ python -m venv <venv_name>
 
 ```Powershell
 pip install -r requirements.txt
+python -m ipykernel install --user --name=<venv_name>
 ```
 
 ### Open jupyterlab
